@@ -43,8 +43,9 @@ The AI is not limited to a fixed category list — it can invent new ones like `
 
 ## Installation
 
-> No Chrome Web Store listing yet (Pending Review)— load it manually as an unpacked extension.
+> Install Chrome Web Store listing. [Link](https://chromewebstore.google.com/detail/gmchljomajofnnkfpmflkfkfjdjgodfa)
 
+> Load it manually as an unpacked extension.
 1. Download or clone this repo
 2. Open `chrome://extensions`
 3. Enable **Developer mode** (top right toggle)
